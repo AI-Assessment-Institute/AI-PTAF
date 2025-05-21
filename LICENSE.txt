@@ -18,6 +18,6 @@ Full license text available at: https://creativecommons.org/licenses/by/4.0/
 ---
 
 **Work Title**: AI Penetration Testing Assessment Framework (AI-PAF)  
-**Author**: [Your Name or Organisation]  
+**Author**: David Mound - AI Assessment Institute
 **Date**: 2025  
 **License**: CC BY 4.0  
