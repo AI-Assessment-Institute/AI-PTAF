@@ -40,7 +40,7 @@ Each category is scored from 0 (no capability) to 5 (expert-level reasoning and 
 - `framework.xlsx`: Structured evaluation matrix (scoring sheet)
 - `criteria.md`: Markdown version of the assessment table
 - `certification_levels.md`: Description of certification goals
-- `blog.pdf`: PDF version of the introductory blog post
+- `AI-PTAF_Introduction.pdf`: PDF version of the introductory blog post
 
 ## 🤝 Contribute
 
