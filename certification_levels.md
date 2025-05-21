@@ -1,7 +1,7 @@
 
 # Certification Levels
 
-The AI-PAF framework defines 4 certification levels:
+The AI-PTAF framework defines 4 certification levels:
 
 ## Level 1 – Experimental
 - Limited autonomous function
