@@ -1,58 +1,58 @@
 # AI Penetration Testing Assessment Framework (AI-PTAF)
 
-The **AI Penetration Testing Assessment Framework (AI-PTAF)** is an open standard for evaluating AI-based penetration testing tools. It aligns with traditional human-centric pentesting certifications and provides a scoring model to certify AI agents for safe use in live environments.
+The **AI Penetration Testing Assessment Framework (AI-PTAF)** is an open standard designed to evaluate AI-based penetration testing tools. It mirrors traditional, human-led penetration testing certifications and provides a structured scoring model for certifying safe AI agents in controlled or live environments.
 
-## 🎯 Goals
+## Objectives
 
-This framework helps answer:
-- Can the AI understand testing requirements and scope?
-- Can it operate safely within defined boundaries?
-- Can it find real vulnerabilities?
-- Can it avoid dangerous operations?
-- Can it produce professional, actionable reports?
+This framework aims to determine:
 
-## 📚 Structure
+- Whether the AI understands testing requirements and the defined scope.
+- If it can operate safely within specified boundaries.
+- Whether it can identify genuine vulnerabilities.
+- If it avoids unsafe or uncontrolled actions.
+- Whether it can generate professional, actionable reporting outputs.
 
-The framework evaluates AI pentesters across 8 key areas:
+## Framework Structure
 
-1. Pre-Engagement & Scoping  
+AI penetration testers are assessed across the following eight categories:
+
+1. Pre-Engagement and Scoping  
 2. Information Gathering  
-3. Threat Modelling & Attack Surface Mapping  
+3. Threat Modelling and Attack Surface Mapping  
 4. Vulnerability Analysis  
 5. Exploitation  
-6. Post-Exploitation & Privilege Escalation  
-7. Reporting & Delivery  
+6. Post-Exploitation and Privilege Escalation  
+7. Reporting and Delivery  
 8. AI-Specific Capabilities
 
-Each category is scored from 0 (no capability) to 5 (expert-level reasoning and control).
+Each category is scored on a scale from 0 (no capability) to 5 (expert-level competence and controlled reasoning).
 
-## 🧪 Certification Levels
+## Certification Levels
 
-| **Level**                        | **Description**                                                  |
-|----------------------------------|------------------------------------------------------------------|
-| Level 1 – Experimental           | Early-stage, limited AI with high supervision requirements       |
-| Level 2 – Augmented Assistant    | Supports human testers with some autonomous features             |
-| Level 3 – Autonomous (Non-Prod)  | Suitable for internal/lab testing with scoped autonomy           |
-| Level 4 – Certified AI Pentester | Approved for live production use with high capability & safety   |
+| **Level**                        | **Description**                                                        |
+|----------------------------------|------------------------------------------------------------------------|
+| Level 1 – Experimental           | Prototype-stage AI requiring close supervision and manual oversight    |
+| Level 2 – Augmented Assistant    | Supports human testers, with limited autonomous functionality          |
+| Level 3 – Autonomous (Non-Prod)  | Suitable for controlled internal or lab environments                   |
+| Level 4 – Certified AI Pentester | Cleared for use in production environments with proven capability and safety controls |
 
-## 📄 Files
+## Included Files
 
-- `framework.xlsx`: Structured evaluation matrix (scoring sheet)
-- `criteria.md`: Markdown version of the assessment table
-- `certification_levels.md`: Description of certification goals
-- `AI-PTAF_Introduction.pdf`: PDF version of the introductory blog post
-- `PTAF_Scoring_Rubric_Full_AutoCalc.xlsx`: PTAF Scoring Rubric
+- `framework.xlsx` – Structured scoring and evaluation matrix  
+- `criteria.md` – Markdown version of the full assessment table  
+- `certification_levels.md` – Detailed breakdown of certification levels  
+- `AI-PTAF_Introduction.pdf` – Introductory document outlining the framework  
+- `PTAF_Scoring_Rubric_Full_AutoCalc.xlsx` – Automated scoring rubric spreadsheet
 
-## 🤝 Contribute
+## Contributing
 
-We're inviting contributions from the community to evolve this framework. Submit PRs, raise issues, or suggest improvements.
+The framework is under ongoing development. Community feedback and contributions are encouraged. Submit pull requests, raise issues, or suggest enhancements.
 
-## 📫 Contact
+## Contact
 
-Created by: David Mound (AI Assessment Institute)
-
-Questions or feedback? Raise an issue or contact us.
+Author: David Mound (AI Assessment Institute)  
+If you have any questions or feedback, please raise an issue in the repository or contact the maintainer directly.
 
 ---
 
-**License**: Creative Commons Attribution 4.0 (CC BY 4.0)
+**Licence**: Creative Commons Attribution 4.0 International (CC BY 4.0)
